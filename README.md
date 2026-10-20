@@ -88,6 +88,11 @@ Interested in game development, software engineering and cloud technologies.
 <i>College work, experiments and projects as I learn.</i>
 
 </div>
+<div align="center">
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" />
+
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArchieMaruk/ArchieMaruk/output/pacman-contribution-graph-dark.svg">
   <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/ArchieMaruk/ArchieMaruk/output/pacman-contribution-graph.svg">
