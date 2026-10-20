@@ -66,10 +66,10 @@ Interested in game development, software engineering and cloud technologies.
 | Area | Technologies |
 |---|---|
 | Programming | C#, C++, C, Java, Kotlin, Python, JavaScript, TypeScript, PHP, SQL, Bash |
-| Game development | Unity (ProBuilder, Cinemachine, Timeline, NavMesh, Input System), Unreal Engine, SFML |
-| 3D & art | Blender, Maya (polygon & NURBS modelling) |
+| Game development | Unity, Unreal Engine, SFML |
+| 3D & art | Blender, Maya  |
 | Mobile | Android, Android Studio |
-| Cloud & containers | AWS (CDK, Lambda, DynamoDB, boto3, VPC, load balancing), Azure, Docker |
+| Cloud & containers | AWS , Azure, Docker |
 | Databases | MySQL, MongoDB, MongoDB Atlas |
 | Data & AI | NumPy, pandas, Jupyter, KNN |
 | Networking & security | Cisco Packet Tracer, IPv4 addressing, DHCP, DNS, applied cryptography |
