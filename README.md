@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi, I'm Archil 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4BA3C7&center=true&vCenter=true&width=500&lines=Games+Developer;Unity+%26+C%23+%7C+C%2B%2B;Building+Vinewrath...;Final+Year+%40+SETU)](https://git.io/typing-svg)
 
 **Final year student · Computer Science - Games Development**
 
