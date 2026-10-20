@@ -15,10 +15,12 @@ Interested in game development, software engineering and cloud technologies.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 ![Autodesk Maya](https://img.shields.io/badge/Maya-37A5CC?style=flat&logo=autodeskmaya&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -29,39 +31,45 @@ Interested in game development, software engineering and cloud technologies.
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 
 </div>
 
 ---
 
-## 🛠️ Featured Projects
+
 
 <div align="center">
+
+## 🛠️ Featured Projects
 
 | Project | Stack | What it does |
 |:---:|:---:|---|
 | [Vinewrath](https://github.com/ArchieMaruk/vinewrath) | Unity, C# | My final year project: a 3D roguelike game, currently building towards a vertical slice. |
+| [GloomPup](https://github.com/ArchilMarukashvili/GloomPup) | Unity, C#, Notion, Miro | A dark survival game where Bongo, a lost dog, must find his way home past creatures lurking in the dark. Built over three agile sprints. |
 | [Whopper](https://github.com/ArchieMaruk/whopper) | Unity 6, C#, Android | A mobile endless runner built for Android. |
 | [SkillSwapper](https://github.com/ArchieMaruk/skillswapper) | Kotlin, Android | An Android app for swapping skills with other people. |
 | [Pacman](https://github.com/ArchieMaruk/pacman) | C++, SFML | A Pacman clone built with the SFML library. |
-| [Serverless App](https://github.com/ArchieMaruk/simple-app) | AWS CDK, Lambda, DynamoDB | A serverless backend deployed to AWS with infrastructure as code. |
-
 </div>
 
 
-## ⚡ Technologies I've worked with
 
 <div align="center">
+
+## ⚡ Technologies I've worked with
 
 | Area | Technologies |
 |---|---|
 | Programming | C#, C++, C, Java, Kotlin, Python, JavaScript, TypeScript, PHP, SQL, Bash |
-| Game development | Unity, Unreal Engine, SFML |
-| 3D & art | Blender, Maya |
+| Game development | Unity (ProBuilder, Cinemachine, Timeline, NavMesh, Input System), Unreal Engine, SFML |
+| 3D & art | Blender, Maya (polygon & NURBS modelling) |
 | Mobile | Android, Android Studio |
-| Cloud & containers | AWS CDK, Lambda, DynamoDB, Azure, Docker |
-| Data & AI | NumPy, pandas, Jupyter |
+| Cloud & containers | AWS (CDK, Lambda, DynamoDB, boto3, VPC, load balancing), Azure, Docker |
+| Databases | MySQL, MongoDB, MongoDB Atlas |
+| Data & AI | NumPy, pandas, Jupyter, KNN |
+| Networking & security | Cisco Packet Tracer, IPv4 addressing, DHCP, DNS, applied cryptography |
+| Project management | Agile sprints, Trello, Notion, Miro |
 | IT support | Hardware repair, PC deployment, ticketing |
 | Development tools | Git, Visual Studio, Rider |
 | Operating systems | Windows, Linux, Android |
