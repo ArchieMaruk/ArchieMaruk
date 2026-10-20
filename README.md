@@ -36,6 +36,15 @@ Interested in game development, software engineering and cloud technologies.
 
 </div>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArchieMaruk/ArchieMaruk/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/ArchieMaruk/ArchieMaruk/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
 ---
 
 
