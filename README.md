@@ -1,13 +1,14 @@
 <div align="center">
 
 # Hi, I'm Archil 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4BA3C7&center=true&vCenter=true&width=500&lines=Games+Developer;Unity+%26+C%23+%7C+C%2B%2B;Building+Vinewrath...;Final+Year+%40+SETU)](https://git.io/typing-svg)
 
 **Final year student · Computer Science - Games Development**
 
 Studying at South East Technological University (SETU)<br>
 Interested in game development, software engineering and cloud technologies.
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:your.email@example.com) · [Repositories](https://github.com/ArchieMaruk?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/archil-marukashvili/) · [Repositories](https://github.com/ArchieMaruk?tab=repositories)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
