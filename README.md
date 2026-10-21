@@ -9,6 +9,7 @@ Interested in game development, software engineering and cloud technologies.
 
 [LinkedIn](https://www.linkedin.com/in/archil-marukashvili/) · [Repositories](https://github.com/ArchieMaruk?tab=repositories)
 
+### 🧰 Skills & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
