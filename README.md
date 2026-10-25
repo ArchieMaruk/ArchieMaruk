@@ -57,9 +57,9 @@ Interested in game development, software engineering and cloud technologies.
 |:---:|:---:|---|
 | [Vinewrath](https://github.com/ArchieMaruk/vinewrath) | Unity, C# | My final year project: a 3D roguelike game, currently building towards a vertical slice. |
 | [GloomPup](https://github.com/ArchilMarukashvili/GloomPup) | Unity, C#, Notion, Miro | A dark survival game where Bongo, a lost dog, must find his way home past creatures lurking in the dark. Built over three agile sprints. |
-| [Whopper](https://github.com/ArchieMaruk/whopper) | Unity 6, C#, Android | A mobile endless runner built for Android. |
+| [Whopper](https://github.com/ArchieMaruk/Mobile-App-Game-Development.git) | Unity 6, C#, Android | A mobile endless runner built for Android. |
 | [SkillSwapper](https://github.com/ArchieMaruk/skillswapper) | Kotlin, Android | An Android app for swapping skills with other people. |
-| [Pacman](https://github.com/ArchieMaruk/pacman) | C++, SFML | A Pacman clone built with the SFML library. |
+| [Pacman](https://github.com/GameDevCPP/game-dev-cpp-pacman-waffle9000.git) | C++, SFML | A Pacman clone built with the SFML library. |
 </div>
 
 
